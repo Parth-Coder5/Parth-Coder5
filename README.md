@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Parth!
+# 👋 Hi, I'm Kavyansh!
 
 🎓 Student | 🤖 Machine Learning Enthusiast | 🐍 Python Developer  
 
