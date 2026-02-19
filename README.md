@@ -20,7 +20,7 @@ I enjoy turning data into insights and learning by building complete end-to-end 
 
 ## 📌 Featured Project
 ### 🎓 Student Marks Predictor
-📊 Machine Learning project to predict student final marks  
+📊 End-to-end Machine Learning project to predict student final marks
 
 **What I did:**
 - Data Cleaning & EDA  
