@@ -18,21 +18,23 @@ I enjoy turning data into insights and learning by building complete end-to-end 
 
 ---
 
-## 📌 Featured Project
-### 🎓 Student Marks Predictor
-📊 End-to-end Machine Learning project to predict student final marks
+📌 Featured Project
 
-**What I did:**
-- Data Cleaning & EDA  
-- Feature Selection  
-- Trained multiple ML models  
-- Model comparison using MAE & R²  
-- Selected best-performing model  
-- Saved model and validated predictions  
-- Published project on GitHub  
+💳 Credit Risk Predictor  
+📊 End-to-end Machine Learning project to predict loan credit risk (Good / Bad customers)
+
+What I did:
+- Data cleaning and exploratory data analysis (EDA)
+- Handled missing values and categorical features
+- Built a full ML pipeline using Logistic Regression
+- Handled class imbalance with threshold tuning
+- Evaluated model using ROC-AUC, Precision, Recall & F1-score
+- Focused on business-driven metrics (high-risk recall)
+- Saved trained pipeline for deployment
+- Published project on GitHub
 
 🔗 Repository:  
-👉 https://github.com/Parth-Coder5/student-marks-predictor
+👉 https://github.com/Parth-Coder5/Credit_Risk_Predictor
 
 ---
 
