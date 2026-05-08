@@ -1,54 +1,59 @@
 # 👋 Hi, I'm Kavyansh!
 
-🎓 Student | 🤖 Machine Learning Enthusiast | 🐍 Python Developer  
+🎓 Class 12 Student | 📈 Quantitative Finance & AI Enthusiast | 🐍 Python Developer
 
-I am passionate about **Machine Learning, Data Science, and building real-world projects**.  
-I enjoy turning data into insights and learning by building complete end-to-end projects.
+I’m passionate about:
+- Quantitative Trading
+- Machine Learning
+- Algorithmic Trading Systems
+- Data Science
+- Building real-world AI & Finance projects
 
----
-
-## 🚀 Skills
-- Python  
-- Machine Learning  
-- Data Analysis  
-- Pandas, NumPy  
-- Scikit-learn  
-- Jupyter Notebook  
-- Git & GitHub  
+I enjoy combining mathematics, programming, and financial markets to build practical systems and strategies.
 
 ---
 
-📌 Featured Project
+# 🚀 Skills
 
-💳 Credit Risk Predictor  
-📊 End-to-end Machine Learning project to predict loan credit risk (Good / Bad customers)
-
-What I did:
-- Data cleaning and exploratory data analysis (EDA)
-- Handled missing values and categorical features
-- Built a full ML pipeline using Logistic Regression
-- Handled class imbalance with threshold tuning
-- Evaluated model using ROC-AUC, Precision, Recall & F1-score
-- Focused on business-driven metrics (high-risk recall)
-- Saved trained pipeline for deployment
-- Published project on GitHub
-
-🔗 Repository:  
-👉 https://github.com/Parth-Coder5/Credit_Risk_Predictor
+- Python
+- Quantitative Finance
+- Machine Learning
+- Pandas & NumPy
+- Data Analysis
+- Backtesting
+- Jupyter Notebook
+- Git & GitHub
 
 ---
 
-## 📈 GitHub Stats
-- Actively building Machine Learning projects
-- Focused on practical, project-based learning
+# 📌 Featured Projects
+
+## 📈 Quantitative Mean Reversion Trading System
+- Built a quantitative trading strategy using Python
+- Implemented Z-Score + RSI signal generation
+- Added stop-loss and portfolio allocation logic
+- Backtested strategy on multiple NSE stocks
+
+🔗 GitHub Repo: [Quantitative Mean Reversion Trading System](https://github.com/Parth-Coder5/Quantitative-Mean-Reversion-Trading-System)
+
+🔗 LinkedIn Post: [Project Post]()
+
+## 🤖 Credit Risk Predictor
+- End-to-end ML pipeline using Scikit-learn
+- Threshold tuning and Streamlit deployment
+- Financial risk prediction system
 
 ---
 
-## 🎯 Goals
-- Build more real-world ML projects  
-- Learn model deployment (Streamlit / Flask)  
-- Prepare for internships and future opportunities  
+# 🎯 Future Goals
+
+- Build AI-powered trading systems
+- Learn advanced quantitative finance
+- Explore statistical arbitrage & HFT concepts
+- Pursue Engineering + Quant Research
 
 ---
+
+⭐ Always learning and building.
 
 ⭐ *Feel free to explore my repositories and connect with me!*
