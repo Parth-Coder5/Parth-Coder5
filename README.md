@@ -36,7 +36,7 @@ I enjoy combining mathematics, programming, and financial markets to build pract
 
 🔗 GitHub Repo: [Quantitative Mean Reversion Trading System](https://github.com/Parth-Coder5/Quantitative-Mean-Reversion-Trading-System)
 
-🔗 LinkedIn Post: [Project Post]()
+🔗 LinkedIn Post: [Project Post](https://www.linkedin.com/feed/update/urn:li:activity:7458495118073810944/)
 
 ## 🤖 Credit Risk Predictor
 - End-to-end ML pipeline using Scikit-learn
