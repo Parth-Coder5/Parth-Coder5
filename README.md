@@ -38,12 +38,16 @@ I enjoy combining mathematics, programming, and financial markets to build pract
 
 🔗 LinkedIn Post: [Project Post](https://www.linkedin.com/feed/update/urn:li:activity:7458495118073810944/)
 
-## 🤖 Credit Risk Predictor
-- End-to-end ML pipeline using Scikit-learn
-- Threshold tuning and Streamlit deployment
-- Financial risk prediction system
+## 🤖 QuantVision AI — AI Trading Dashboard
 
----
+- Built a complete AI-powered stock trading dashboard from scratch
+- Technical indicators: MA, RSI, MACD, Bollinger Bands
+- Swing trading backtesting engine with 84% win rate on BAJFINANCE.NS
+- ML prediction layer using Random Forest for next-day direction
+- Supports both NSE Indian stocks and US markets
+
+🔗 GitHub Repo: [QuantVision-AI](https://github.com/Parth-Coder5/QuantVision-AI)
+🔗 LinkedIn Post: [Project Post](#)
 
 # 🎯 Future Goals
 
